@@ -1,1 +1,2 @@
-Hi, I'm Rahul Retnan
+- 👋 Hi, I’m @Rahul Retnan
+- 👀 I’m interested in Technologies that can change the future.
