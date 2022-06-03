@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulretnan&label=Profile%20views&color=0e75b6&style=flat" alt="rahulretnan" /> </p>
 
-- 📫 How to reach me **rahul@nvicta.me**
+- 📫 How to reach me **rahul@ivicta.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
