@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Retnan</h1>
 <h3 align="center">I’m interested in Technologies that can change the future.</h3>
 
+<a href="https://wakatime.com/@69017139-af83-402f-814c-0c0ab89101c3"><img src="https://wakatime.com/badge/user/69017139-af83-402f-814c-0c0ab89101c3.svg" alt="Total time coded since May 11 2021" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulretnan&label=Profile%20views&color=0e75b6&style=flat" alt="rahulretnan" /> </p>
-[![wakatime](https://wakatime.com/badge/user/69017139-af83-402f-814c-0c0ab89101c3.svg)](https://wakatime.com/@69017139-af83-402f-814c-0c0ab89101c3)
+
+
 
 - 📫 How to reach me **rahul@ivicta.in**
 
