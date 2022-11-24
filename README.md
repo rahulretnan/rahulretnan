@@ -6,7 +6,7 @@
 
 
 
-- 📫 How to reach me **rahul@ivicta.in**
+- 📫 How to reach me **hi@rahulretnan.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
